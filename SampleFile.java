@@ -1,4 +1,4 @@
-#sample file on my github
+
 class SampleFile
 {
     public static void main(String []args)
